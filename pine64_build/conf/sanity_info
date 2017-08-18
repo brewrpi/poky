@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/administrator/yocto/poky/pine64_build/tmp
+SSTATE_DIR /home/administrator/yocto/poky/pine64_build/sstate-cache
+NATIVELSBSTRING Ubuntu-16.04

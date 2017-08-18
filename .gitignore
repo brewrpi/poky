@@ -1,3 +1,7 @@
+*_build/tmp
+*_build/cache
+*_build/downloads
+*_build/sstate-cache
 *.pyc
 *.pyo
 /*.patch
